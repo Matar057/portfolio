@@ -271,7 +271,7 @@ section{
     text-align: center;
 }
 .img-box img{
-    width: 100%;
+    width: 50%;
     max-width: 280px;
     height: auto;
 }
