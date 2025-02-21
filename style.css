@@ -271,8 +271,8 @@ section{
     text-align: center;
 }
 .img-box img{
-    width: 50%;
-    max-width: 290px;
+    width: 100%;
+    max-width: 280px;
     height: auto;
 }
 .liquid-shape{
